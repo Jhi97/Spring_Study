@@ -25,6 +25,6 @@ public class ValidationItemApiController {
 
         log.info("성공 로직 실행");
 
-        return form;  
+        return form;
     }
 }
